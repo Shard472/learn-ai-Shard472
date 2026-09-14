@@ -82,6 +82,7 @@ print("Hello World")
 ——会救你的！
 
 下一秒，菜月昴死亡。
+![](https://github.com/Shard472/learn-ai-Shard472/blob/main/11.jpg)
 ### 01 『无法使用的十元硬币』
 ——这下真的很糟糕。
 
@@ -280,6 +281,7 @@ print("Hello World")
 给人的第一印象是骄傲，但她的长相让她微笑起来会比一般人还要可爱。
 
 这千载难逢的好时机，点燃了昴眼中的希望之灯。
+![](https://github.com/Shard472/learn-ai-Shard472/blob/main/10.jpg)
 
 就在等这个！
 
@@ -320,3 +322,4 @@ print("Hello World")
 就在摒弃一切、压倒性的绝望中——
 
 「——到此为止了，恶棍。」
+![](https://github.com/Shard472/learn-ai-Shard472/blob/main/01.jpg)

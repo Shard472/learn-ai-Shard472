@@ -10,7 +10,7 @@ print("Hello World")
 | 决赛 | 16米 | 第三名 |
 # RE0 从零开始的异世界生活 （ WEB 版 ）
 
-https://teedoc.github.io/re0-web-teedoc/gitbook/book/markdown/ch/index.html
+![]https://teedoc.github.io/re0-web-teedoc/gitbook/book/markdown/ch/index.html
 
 走出便利商店要回家的高中生 菜月‧昴( Natsuki‧Subaru ) 突然被召唤到异世界。
 
